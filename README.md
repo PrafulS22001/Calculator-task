@@ -1,6 +1,6 @@
 # Calculator-task.-
 
-# Task 1 Calulator with text box and dropdown list
+# Task 1: Calculator with text box and dropdown list
 - The numbers are in a textbox where as the operators are in a dropdown.
 
 # Task 2: Calculator with text box and radio buttons
